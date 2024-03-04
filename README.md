@@ -1,7 +1,7 @@
 # Huck the Hogs
 A non-commercial Discord bot version of the dice game Pig, inspired by Pass the Pigs.
 
-[Add to your Discord server](https://discord.com/api/oauth2/authorize?client_id=776352589088292874&permissions=0&scope=bot)
+[Add to your Discord server](https://discord.com/api/oauth2/authorize?client_id=1214253586045730896&permissions=0&scope=bot)
 
 ## How to play
 
