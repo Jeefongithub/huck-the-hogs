@@ -1,6 +1,6 @@
 from PIL import Image
 
-# takes in two rolls, creates an image
+# Takes in two rolls, creates an image
 def get_image(roll1, roll2):
     if roll1['name'] == "Oinker" or roll2['name'] == "Oinker":
         roll_image = Image.open('images/Oinker.png')
