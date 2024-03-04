@@ -12,19 +12,19 @@ The first player to reach 100 or more points wins.
 
 ## Commands
 
-**!huckthehogs** - Initialize the game
+**/huckthehogs** - Initialize the game
 
-**!join** - Join the server's current game (game must have been initialized)
+**/join** - Join the server's current game (game must have been initialized)
 
-**!start** - Start the server's game and start rolling (requires at least two players)
+**/start** - Start the server's game and start rolling (requires at least two players)
 
-**!roll** - On your turn, roll the hogs
+**/roll** - On your turn, roll the hogs
 
-**!pass** - End your turn and keep your score for that turn
+**/pass** - End your turn and keep your score for that turn
 
-**!score** - View all player scores
+**/score** - View all player scores
 
-**!quit** - Abandon the server's current game
+**/quit** - Abandon the server's current game
 
 ## Scoring
 
