@@ -12,7 +12,7 @@ class Player:
         self.current_score = current_score
         self.is_my_turn = is_my_turn
 
-bot = commands.Bot(command_prefix='!')
+bot = commands.Bot(command_prefix='/')
 print('Huck the Hogs successfully initiated.')
 
 current_games = {}
